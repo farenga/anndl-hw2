@@ -11,7 +11,7 @@ The architectures we have tested are the following:
 4. LSTM seq2seq + Attention
 
 The notebooks referred to their comparison can be found in the
-[`architecture-comparison`](architecture-comparison)  folder.
+[`architectures-comparison`](architectures-comparison)  folder.
 
 We have performed multiple tests under different hyperparameters combinations, they can be found in the [`hyperparameters-tuning`](hyperparameters-tuning)  folder.
 
