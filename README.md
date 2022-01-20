@@ -13,9 +13,9 @@ The architectures that have been tested are the following:
 3. LSTM Seq2Seq + Attention
 4. Dilatated causal CNN + LSTM (WaveNet-style)
 
-The notebooks referred to their evaluation and comparisons can be found in the
+They are all listed in the [`models.ipynb`](models.ipynb) notebook and the notebooks referred to their evaluation and comparisons can be found in the
 [`architectures-evaluation`](architectures-evaluation)  folder.
 
 We have performed multiple tests under different hyperparameters combinations, they can be found in the [`hyperparameters-tuning`](hyperparameters-tuning)  folder.
 
-After selecting the models that performed better we have trained those architectures on the complete dataset, the notebooks are stored in the  [`final-training`](final-training) folder.
+After selecting the best models we have retrained them on the complete dataset, the notebooks are stored in the  [`final-training`](final-training) folder.
