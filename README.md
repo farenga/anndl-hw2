@@ -4,6 +4,8 @@ This repository contains the material related to the 2nd homework of the Artific
 
 Students: Nicola Farenga, Giorgio Longari.
 
+The folder [`data-exp-preprocessing`](data-exp-preprocessing)  contains two notebooks concerning data exploration, preprocessing and loading.
+
 The architectures that have been tested are the following:
 
 1. Base models (SimpleRNN, LSTM, GRU)
