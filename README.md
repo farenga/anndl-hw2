@@ -1,17 +1,18 @@
-# ANNDL-competition
+# ANNDL Homework #2
 
-This repository contains the material related to the 2nd Competition of the Artificial Neural Networks and Deep Learning Course, Politecnico di Milano.
+This repository contains the material related to the 2nd homework of the Artificial Neural Networks and Deep Learning Course, Politecnico di Milano.
 
-The architectures we have tested are the following:
+Students: Nicola Farenga, Giorgio Longari.
 
-1. Base-RNN
-2. 1-layer LSTM
-3. multi-layer LSTM
-4. LSTM seq2seq
-4. LSTM seq2seq + Attention
+The architectures that have been tested are the following:
 
-The notebooks referred to their comparison can be found in the
-[`architectures-comparison`](architectures-comparison)  folder.
+1. Base models (SimpleRNN, LSTM, GRU)
+2. LSTM Seq2Seq
+3. LSTM Seq2Seq + Attention
+4. WaveNet
+
+The notebooks referred to their evaluation and comparisons can be found in the
+[`architectures-evaluation`](architectures-evaluation)  folder.
 
 We have performed multiple tests under different hyperparameters combinations, they can be found in the [`hyperparameters-tuning`](hyperparameters-tuning)  folder.
 
