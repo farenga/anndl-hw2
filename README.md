@@ -9,7 +9,7 @@ The architectures that have been tested are the following:
 1. Base models (SimpleRNN, LSTM, GRU)
 2. LSTM Seq2Seq
 3. LSTM Seq2Seq + Attention
-4. WaveNet
+4. Dilatated causal CNN + LSTM (WaveNet-style)
 
 The notebooks referred to their evaluation and comparisons can be found in the
 [`architectures-evaluation`](architectures-evaluation)  folder.
